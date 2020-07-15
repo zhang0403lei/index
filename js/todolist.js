@@ -90,7 +90,7 @@ $(function() {
         });
         $("#todocount").text(todoCount);
         $("#donecount").text(doneCount);
-
+        $("#donecount").text(doneCount);
     }
 
 })
